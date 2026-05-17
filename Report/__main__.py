@@ -1,0 +1,3 @@
+import Report
+
+Report.main()
